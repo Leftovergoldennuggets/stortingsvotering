@@ -1,15 +1,804 @@
 {
-  "sesjon": "2023-2024",
+  "sesjon_id": "2023-2024",
   "antall_voteringer": 51,
-  "analysert_dato": "2025-12-25 13:12:53.611685",
-  "partienighet": {
-    "enighet": {},
-    "antall_felles": {},
-    "partier": []
+  "antall_partier": 11,
+  "enighetsmatrise": {
+    "H": {
+      "V": 92.3,
+      "A": 27.6,
+      "MDG": 66.7,
+      "Uav": 100.0,
+      "KrF": 54.5,
+      "FrP": 85.7,
+      "SV": 50.0,
+      "R": 55.6,
+      "PF": 31.2,
+      "Sp": 40.0
+    },
+    "V": {
+      "H": 92.3,
+      "MDG": 96.9,
+      "SV": 63.6,
+      "R": 100.0,
+      "PF": 71.4,
+      "FrP": 85.7,
+      "Uav": 50.0,
+      "KrF": 100.0,
+      "A": 58.1,
+      "Sp": 0.0
+    },
+    "A": {
+      "H": 27.6,
+      "R": 87.2,
+      "MDG": 75.4,
+      "SV": 86.7,
+      "Sp": 93.8,
+      "FrP": 42.9,
+      "PF": 75.7,
+      "Uav": 53.5,
+      "KrF": 60.3,
+      "V": 58.1
+    },
+    "R": {
+      "A": 87.2,
+      "MDG": 80.0,
+      "V": 100.0,
+      "PF": 100.0,
+      "SV": 100.0,
+      "H": 55.6,
+      "KrF": 25.0,
+      "FrP": 55.6,
+      "Sp": 100.0,
+      "Uav": 100.0
+    },
+    "MDG": {
+      "A": 75.4,
+      "R": 80.0,
+      "SV": 79.1,
+      "Sp": 100.0,
+      "FrP": 88.2,
+      "V": 96.9,
+      "PF": 84.6,
+      "H": 66.7,
+      "Uav": 77.8,
+      "KrF": 91.9
+    },
+    "SV": {
+      "A": 86.7,
+      "MDG": 79.1,
+      "Sp": 75.0,
+      "FrP": 75.0,
+      "V": 63.6,
+      "R": 100.0,
+      "PF": 100.0,
+      "H": 50.0,
+      "KrF": 80.0
+    },
+    "Sp": {
+      "A": 93.8,
+      "MDG": 100.0,
+      "SV": 75.0,
+      "FrP": 83.3,
+      "R": 100.0,
+      "H": 40.0,
+      "KrF": 0.0,
+      "V": 0.0,
+      "Uav": 100.0
+    },
+    "FrP": {
+      "A": 42.9,
+      "MDG": 88.2,
+      "PF": 33.3,
+      "Uav": 100.0,
+      "KrF": 57.7,
+      "SV": 75.0,
+      "Sp": 83.3,
+      "V": 85.7,
+      "H": 85.7,
+      "R": 55.6
+    },
+    "PF": {
+      "A": 75.7,
+      "FrP": 33.3,
+      "Uav": 60.0,
+      "KrF": 83.8,
+      "R": 100.0,
+      "V": 71.4,
+      "MDG": 84.6,
+      "SV": 100.0,
+      "H": 31.2
+    },
+    "Uav": {
+      "A": 53.5,
+      "FrP": 100.0,
+      "PF": 60.0,
+      "KrF": 81.2,
+      "V": 50.0,
+      "H": 100.0,
+      "MDG": 77.8,
+      "Sp": 100.0,
+      "R": 100.0
+    },
+    "KrF": {
+      "A": 60.3,
+      "FrP": 57.7,
+      "PF": 83.8,
+      "Uav": 81.2,
+      "H": 54.5,
+      "MDG": 91.9,
+      "V": 100.0,
+      "R": 25.0,
+      "SV": 80.0,
+      "Sp": 0.0
+    }
   },
-  "partistatistikk": {},
-  "mest_og_minst_enige": {
-    "mest_enige": [],
-    "minst_enige": []
-  }
+  "mest_enige": [
+    {
+      "parti_a": "MDG",
+      "parti_b": "Sp",
+      "enighet_prosent": 100.0,
+      "antall_enige": 7,
+      "antall_uenige": 0,
+      "antall_totalt": 7
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "Uav",
+      "enighet_prosent": 100.0,
+      "antall_enige": 23,
+      "antall_uenige": 0,
+      "antall_totalt": 23
+    },
+    {
+      "parti_a": "R",
+      "parti_b": "V",
+      "enighet_prosent": 100.0,
+      "antall_enige": 2,
+      "antall_uenige": 0,
+      "antall_totalt": 2
+    },
+    {
+      "parti_a": "PF",
+      "parti_b": "R",
+      "enighet_prosent": 100.0,
+      "antall_enige": 1,
+      "antall_uenige": 0,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "R",
+      "parti_b": "SV",
+      "enighet_prosent": 100.0,
+      "antall_enige": 1,
+      "antall_uenige": 0,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "PF",
+      "parti_b": "SV",
+      "enighet_prosent": 100.0,
+      "antall_enige": 5,
+      "antall_uenige": 0,
+      "antall_totalt": 5
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "Uav",
+      "enighet_prosent": 100.0,
+      "antall_enige": 8,
+      "antall_uenige": 0,
+      "antall_totalt": 8
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "V",
+      "enighet_prosent": 100.0,
+      "antall_enige": 16,
+      "antall_uenige": 0,
+      "antall_totalt": 16
+    },
+    {
+      "parti_a": "R",
+      "parti_b": "Sp",
+      "enighet_prosent": 100.0,
+      "antall_enige": 1,
+      "antall_uenige": 0,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "Sp",
+      "parti_b": "Uav",
+      "enighet_prosent": 100.0,
+      "antall_enige": 2,
+      "antall_uenige": 0,
+      "antall_totalt": 2
+    }
+  ],
+  "minst_enige": [
+    {
+      "parti_a": "Sp",
+      "parti_b": "V",
+      "enighet_prosent": 0.0,
+      "antall_enige": 0,
+      "antall_uenige": 1,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "Sp",
+      "enighet_prosent": 0.0,
+      "antall_enige": 0,
+      "antall_uenige": 6,
+      "antall_totalt": 6
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "R",
+      "enighet_prosent": 25.0,
+      "antall_enige": 1,
+      "antall_uenige": 3,
+      "antall_totalt": 4
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "H",
+      "enighet_prosent": 27.6,
+      "antall_enige": 8,
+      "antall_uenige": 21,
+      "antall_totalt": 29
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "PF",
+      "enighet_prosent": 31.2,
+      "antall_enige": 5,
+      "antall_uenige": 11,
+      "antall_totalt": 16
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "PF",
+      "enighet_prosent": 33.3,
+      "antall_enige": 5,
+      "antall_uenige": 10,
+      "antall_totalt": 15
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "Sp",
+      "enighet_prosent": 40.0,
+      "antall_enige": 2,
+      "antall_uenige": 3,
+      "antall_totalt": 5
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "FrP",
+      "enighet_prosent": 42.9,
+      "antall_enige": 12,
+      "antall_uenige": 16,
+      "antall_totalt": 28
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "SV",
+      "enighet_prosent": 50.0,
+      "antall_enige": 1,
+      "antall_uenige": 1,
+      "antall_totalt": 2
+    },
+    {
+      "parti_a": "Uav",
+      "parti_b": "V",
+      "enighet_prosent": 50.0,
+      "antall_enige": 1,
+      "antall_uenige": 1,
+      "antall_totalt": 2
+    }
+  ],
+  "partistatistikk": {
+    "V": {
+      "antall_voteringer": 34,
+      "antall_for": 5,
+      "antall_mot": 29,
+      "for_prosent": 14.7,
+      "vinnersiden_prosent": 73.5
+    },
+    "H": {
+      "antall_voteringer": 33,
+      "antall_for": 7,
+      "antall_mot": 26,
+      "for_prosent": 21.2,
+      "vinnersiden_prosent": 78.8
+    },
+    "A": {
+      "antall_voteringer": 27,
+      "antall_for": 14,
+      "antall_mot": 13,
+      "for_prosent": 51.9,
+      "vinnersiden_prosent": 0.0
+    },
+    "R": {
+      "antall_voteringer": 28,
+      "antall_for": 7,
+      "antall_mot": 21,
+      "for_prosent": 25.0,
+      "vinnersiden_prosent": 42.9
+    },
+    "MDG": {
+      "antall_voteringer": 37,
+      "antall_for": 10,
+      "antall_mot": 27,
+      "for_prosent": 27.0,
+      "vinnersiden_prosent": 45.9
+    },
+    "SV": {
+      "antall_voteringer": 27,
+      "antall_for": 7,
+      "antall_mot": 20,
+      "for_prosent": 25.9,
+      "vinnersiden_prosent": 37.0
+    },
+    "Sp": {
+      "antall_voteringer": 21,
+      "antall_for": 8,
+      "antall_mot": 13,
+      "for_prosent": 38.1,
+      "vinnersiden_prosent": 9.5
+    },
+    "FrP": {
+      "antall_voteringer": 31,
+      "antall_for": 6,
+      "antall_mot": 25,
+      "for_prosent": 19.4,
+      "vinnersiden_prosent": 67.7
+    },
+    "PF": {
+      "antall_voteringer": 21,
+      "antall_for": 0,
+      "antall_mot": 21,
+      "for_prosent": 0.0,
+      "vinnersiden_prosent": 47.6
+    },
+    "Uav": {
+      "antall_voteringer": 27,
+      "antall_for": 10,
+      "antall_mot": 17,
+      "for_prosent": 37.0,
+      "vinnersiden_prosent": 59.3
+    },
+    "KrF": {
+      "antall_voteringer": 32,
+      "antall_for": 7,
+      "antall_mot": 25,
+      "for_prosent": 21.9,
+      "vinnersiden_prosent": 50.0
+    }
+  },
+  "alle_partipar": [
+    {
+      "parti_a": "MDG",
+      "parti_b": "Sp",
+      "enighet_prosent": 100.0,
+      "antall_enige": 7,
+      "antall_uenige": 0,
+      "antall_totalt": 7
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "Uav",
+      "enighet_prosent": 100.0,
+      "antall_enige": 23,
+      "antall_uenige": 0,
+      "antall_totalt": 23
+    },
+    {
+      "parti_a": "R",
+      "parti_b": "V",
+      "enighet_prosent": 100.0,
+      "antall_enige": 2,
+      "antall_uenige": 0,
+      "antall_totalt": 2
+    },
+    {
+      "parti_a": "PF",
+      "parti_b": "R",
+      "enighet_prosent": 100.0,
+      "antall_enige": 1,
+      "antall_uenige": 0,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "R",
+      "parti_b": "SV",
+      "enighet_prosent": 100.0,
+      "antall_enige": 1,
+      "antall_uenige": 0,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "PF",
+      "parti_b": "SV",
+      "enighet_prosent": 100.0,
+      "antall_enige": 5,
+      "antall_uenige": 0,
+      "antall_totalt": 5
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "Uav",
+      "enighet_prosent": 100.0,
+      "antall_enige": 8,
+      "antall_uenige": 0,
+      "antall_totalt": 8
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "V",
+      "enighet_prosent": 100.0,
+      "antall_enige": 16,
+      "antall_uenige": 0,
+      "antall_totalt": 16
+    },
+    {
+      "parti_a": "R",
+      "parti_b": "Sp",
+      "enighet_prosent": 100.0,
+      "antall_enige": 1,
+      "antall_uenige": 0,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "Sp",
+      "parti_b": "Uav",
+      "enighet_prosent": 100.0,
+      "antall_enige": 2,
+      "antall_uenige": 0,
+      "antall_totalt": 2
+    },
+    {
+      "parti_a": "R",
+      "parti_b": "Uav",
+      "enighet_prosent": 100.0,
+      "antall_enige": 1,
+      "antall_uenige": 0,
+      "antall_totalt": 1
+    },
+    {
+      "parti_a": "MDG",
+      "parti_b": "V",
+      "enighet_prosent": 96.9,
+      "antall_enige": 31,
+      "antall_uenige": 1,
+      "antall_totalt": 32
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "Sp",
+      "enighet_prosent": 93.8,
+      "antall_enige": 30,
+      "antall_uenige": 2,
+      "antall_totalt": 32
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "V",
+      "enighet_prosent": 92.3,
+      "antall_enige": 12,
+      "antall_uenige": 1,
+      "antall_totalt": 13
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "MDG",
+      "enighet_prosent": 91.9,
+      "antall_enige": 34,
+      "antall_uenige": 3,
+      "antall_totalt": 37
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "MDG",
+      "enighet_prosent": 88.2,
+      "antall_enige": 15,
+      "antall_uenige": 2,
+      "antall_totalt": 17
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "R",
+      "enighet_prosent": 87.2,
+      "antall_enige": 34,
+      "antall_uenige": 5,
+      "antall_totalt": 39
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "SV",
+      "enighet_prosent": 86.7,
+      "antall_enige": 52,
+      "antall_uenige": 8,
+      "antall_totalt": 60
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "V",
+      "enighet_prosent": 85.7,
+      "antall_enige": 12,
+      "antall_uenige": 2,
+      "antall_totalt": 14
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "H",
+      "enighet_prosent": 85.7,
+      "antall_enige": 18,
+      "antall_uenige": 3,
+      "antall_totalt": 21
+    },
+    {
+      "parti_a": "MDG",
+      "parti_b": "PF",
+      "enighet_prosent": 84.6,
+      "antall_enige": 11,
+      "antall_uenige": 2,
+      "antall_totalt": 13
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "PF",
+      "enighet_prosent": 83.8,
+      "antall_enige": 31,
+      "antall_uenige": 6,
+      "antall_totalt": 37
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "Sp",
+      "enighet_prosent": 83.3,
+      "antall_enige": 15,
+      "antall_uenige": 3,
+      "antall_totalt": 18
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "Uav",
+      "enighet_prosent": 81.2,
+      "antall_enige": 39,
+      "antall_uenige": 9,
+      "antall_totalt": 48
+    },
+    {
+      "parti_a": "MDG",
+      "parti_b": "R",
+      "enighet_prosent": 80.0,
+      "antall_enige": 16,
+      "antall_uenige": 4,
+      "antall_totalt": 20
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "SV",
+      "enighet_prosent": 80.0,
+      "antall_enige": 8,
+      "antall_uenige": 2,
+      "antall_totalt": 10
+    },
+    {
+      "parti_a": "MDG",
+      "parti_b": "SV",
+      "enighet_prosent": 79.1,
+      "antall_enige": 34,
+      "antall_uenige": 9,
+      "antall_totalt": 43
+    },
+    {
+      "parti_a": "MDG",
+      "parti_b": "Uav",
+      "enighet_prosent": 77.8,
+      "antall_enige": 7,
+      "antall_uenige": 2,
+      "antall_totalt": 9
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "PF",
+      "enighet_prosent": 75.7,
+      "antall_enige": 28,
+      "antall_uenige": 9,
+      "antall_totalt": 37
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "MDG",
+      "enighet_prosent": 75.4,
+      "antall_enige": 52,
+      "antall_uenige": 17,
+      "antall_totalt": 69
+    },
+    {
+      "parti_a": "SV",
+      "parti_b": "Sp",
+      "enighet_prosent": 75.0,
+      "antall_enige": 3,
+      "antall_uenige": 1,
+      "antall_totalt": 4
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "SV",
+      "enighet_prosent": 75.0,
+      "antall_enige": 6,
+      "antall_uenige": 2,
+      "antall_totalt": 8
+    },
+    {
+      "parti_a": "PF",
+      "parti_b": "V",
+      "enighet_prosent": 71.4,
+      "antall_enige": 5,
+      "antall_uenige": 2,
+      "antall_totalt": 7
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "MDG",
+      "enighet_prosent": 66.7,
+      "antall_enige": 6,
+      "antall_uenige": 3,
+      "antall_totalt": 9
+    },
+    {
+      "parti_a": "SV",
+      "parti_b": "V",
+      "enighet_prosent": 63.6,
+      "antall_enige": 7,
+      "antall_uenige": 4,
+      "antall_totalt": 11
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "KrF",
+      "enighet_prosent": 60.3,
+      "antall_enige": 44,
+      "antall_uenige": 29,
+      "antall_totalt": 73
+    },
+    {
+      "parti_a": "PF",
+      "parti_b": "Uav",
+      "enighet_prosent": 60.0,
+      "antall_enige": 6,
+      "antall_uenige": 4,
+      "antall_totalt": 10
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "V",
+      "enighet_prosent": 58.1,
+      "antall_enige": 25,
+      "antall_uenige": 18,
+      "antall_totalt": 43
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "KrF",
+      "enighet_prosent": 57.7,
+      "antall_enige": 15,
+      "antall_uenige": 11,
+      "antall_totalt": 26
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "R",
+      "enighet_prosent": 55.6,
+      "antall_enige": 5,
+      "antall_uenige": 4,
+      "antall_totalt": 9
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "R",
+      "enighet_prosent": 55.6,
+      "antall_enige": 5,
+      "antall_uenige": 4,
+      "antall_totalt": 9
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "KrF",
+      "enighet_prosent": 54.5,
+      "antall_enige": 12,
+      "antall_uenige": 10,
+      "antall_totalt": 22
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "Uav",
+      "enighet_prosent": 53.5,
+      "antall_enige": 38,
+      "antall_uenige": 33,
+      "antall_totalt": 71
+    },
+    {
+      "parti_a": "Uav",
+      "parti_b": "V",
+      "enighet_prosent": 50.0,
+      "antall_enige": 1,
+      "antall_uenige": 1,
+      "antall_totalt": 2
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "SV",
+      "enighet_prosent": 50.0,
+      "antall_enige": 1,
+      "antall_uenige": 1,
+      "antall_totalt": 2
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "FrP",
+      "enighet_prosent": 42.9,
+      "antall_enige": 12,
+      "antall_uenige": 16,
+      "antall_totalt": 28
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "Sp",
+      "enighet_prosent": 40.0,
+      "antall_enige": 2,
+      "antall_uenige": 3,
+      "antall_totalt": 5
+    },
+    {
+      "parti_a": "FrP",
+      "parti_b": "PF",
+      "enighet_prosent": 33.3,
+      "antall_enige": 5,
+      "antall_uenige": 10,
+      "antall_totalt": 15
+    },
+    {
+      "parti_a": "H",
+      "parti_b": "PF",
+      "enighet_prosent": 31.2,
+      "antall_enige": 5,
+      "antall_uenige": 11,
+      "antall_totalt": 16
+    },
+    {
+      "parti_a": "A",
+      "parti_b": "H",
+      "enighet_prosent": 27.6,
+      "antall_enige": 8,
+      "antall_uenige": 21,
+      "antall_totalt": 29
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "R",
+      "enighet_prosent": 25.0,
+      "antall_enige": 1,
+      "antall_uenige": 3,
+      "antall_totalt": 4
+    },
+    {
+      "parti_a": "KrF",
+      "parti_b": "Sp",
+      "enighet_prosent": 0.0,
+      "antall_enige": 0,
+      "antall_uenige": 6,
+      "antall_totalt": 6
+    },
+    {
+      "parti_a": "Sp",
+      "parti_b": "V",
+      "enighet_prosent": 0.0,
+      "antall_enige": 0,
+      "antall_uenige": 1,
+      "antall_totalt": 1
+    }
+  ]
 }
