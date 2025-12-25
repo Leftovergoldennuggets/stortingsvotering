@@ -1,0 +1,79 @@
+[
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "A",
+    "navn": "Arbeiderpartiet",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "H",
+    "navn": "Høyre",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "Sp",
+    "navn": "Senterpartiet",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "FrP",
+    "navn": "Fremskrittspartiet",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "SV",
+    "navn": "Sosialistisk Venstreparti",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "R",
+    "navn": "Rødt",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "V",
+    "navn": "Venstre",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "MDG",
+    "navn": "Miljøpartiet De Grønne",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "KrF",
+    "navn": "Kristelig Folkeparti",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "PF",
+    "navn": "Pasientfokus",
+    "representert_parti": true
+  },
+  {
+    "respons_dato_tid": "/Date(1766664415840+0100)/",
+    "versjon": "1.6",
+    "id": "Uav",
+    "navn": "Uavhengig representant",
+    "representert_parti": true
+  }
+]

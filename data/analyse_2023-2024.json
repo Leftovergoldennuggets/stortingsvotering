@@ -1,0 +1,15 @@
+{
+  "sesjon": "2023-2024",
+  "antall_voteringer": 51,
+  "analysert_dato": "2025-12-25 13:12:53.611685",
+  "partienighet": {
+    "enighet": {},
+    "antall_felles": {},
+    "partier": []
+  },
+  "partistatistikk": {},
+  "mest_og_minst_enige": {
+    "mest_enige": [],
+    "minst_enige": []
+  }
+}
